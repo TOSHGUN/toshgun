@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 <!-- About me -->
 
 ### Languages and Tools
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)
-![C++](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=C%2b%2b&logoColor=47C5FB)
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=yellow)
+![C++](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=C%2b%2b&logoColor=blue)
 
 <!-- Follow me -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=toshgun&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/toshgun/github-readme-stats)
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=toshgun&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/toshgun/github-readme-stats) -->
