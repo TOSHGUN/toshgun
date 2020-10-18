@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 
 ![Header](https://github.com/TOSHGUN/toshgun/blob/main/assets/xianlin.jpg)
 
-About me
+<!-- About me -->
 
-Languages and Tools
+### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=47C5FB)
 ![C++](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=C%2b%2b&logoColor=47C5FB)
 
-Follow me
+<!-- Follow me -->
