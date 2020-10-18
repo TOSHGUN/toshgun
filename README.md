@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=C%2b%2b&logoColor=47C5FB)
 
 <!-- Follow me -->
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=toshgun&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/toshgun/github-readme-stats)
