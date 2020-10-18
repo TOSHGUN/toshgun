@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=yellow)
 ![C++](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=C%2b%2b&logoColor=blue)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toshgun)](https://github.com/toshgun/github-readme-stats)
+
 <!-- Follow me -->
 
-<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=toshgun&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/toshgun/github-readme-stats) -->
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=toshgun&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/toshgun/github-readme-stats)
+
