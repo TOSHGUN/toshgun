@@ -20,7 +20,10 @@ Here are some ideas to get you started:
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=yellow)
-![C++](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=C%2b%2b&logoColor=blue)
+![C++](https://img.shields.io/badge/-C%2b%2b-090909?style=for-the-badge&logo=C%2b%2b&logoColor=blue)
+
+![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML&logoColor=orange)
+![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS&logoColor=orange)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toshgun)](https://github.com/toshgun/github-readme-stats)
 
