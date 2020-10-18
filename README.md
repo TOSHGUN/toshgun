@@ -19,5 +19,7 @@ Here are some ideas to get you started:
 About me
 
 Languages and Tools
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=47C5FB)
+![C++](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=C%2b%2b&logoColor=47C5FB)
 
 Follow me
