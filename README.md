@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Header](https://github.com/TOSHGUN/toshgun/blob/main/assets/xianlin.jpg)
+![Header](https://github.com/TOSHGUN/toshgun/blob/main/assets/logo_github.gif)
 
 <!-- About me -->
 
