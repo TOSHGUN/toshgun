@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toshgun)](https://github.com/toshgun/github-readme-stats)
 
-<!-- Follow me -->
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=toshgun&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/toshgun/github-readme-stats)
 
+### Follow me
+![steam](https://steamcommunity.com/id/toshgun13/) ![instagram](https://www.instagram.com/toshgun13/) ![spotify](https://open.spotify.com/user/31cidwftcywfngs5tijdbdaoyzle)
